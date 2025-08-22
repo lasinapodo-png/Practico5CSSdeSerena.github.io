@@ -1,0 +1,11 @@
+tr {
+padding:8x;
+table border:1;
+cellspacing:2;
+}
+tr:nth-child(odd){
+background-color:red;
+}
+tr:nth-child(even){
+background-color:blue;
+}
